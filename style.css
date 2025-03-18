@@ -71,15 +71,13 @@ a{
     padding-bottom: 8rem;
 }
 .faded-text{
-    position: absolute;
     user-select: none;
     font-size: 7rem;
-    color:rgb(231, 231, 231);
-    bottom:-30% ;
+    font-weight: 500;
+    color: rgb(231, 231, 231);
+    position: absolute;
+    bottom: -13%;
     left: 1%;
-    font-weight: bold;
-    transition: all 2s;
-
 }
 .hero-section-left{
     display: flex;
